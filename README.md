@@ -3,3 +3,4 @@ CFD Simple演算法 圖形化介面 使用Qt框架 版本為6.1.3
 Pause/run按鈕按下後可改為6秒跑一步，再次點選還原為1毫秒1步  
 Output鈕可出2D流場圖、x=0.5*長之U_prodile、y=0之Pressure gradient  
 Reset plot可重製Chart曲線   
+![image](https://github.com/a0931228191/CFD-SImpleCode-with-Qt/blob/main/%E6%93%B7%E5%8F%96.JPG)  
